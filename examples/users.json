@@ -1,0 +1,1 @@
+[{"address":{"city":"上海","zip":"200000"},"age":28,"email":"qiang@example.com","id":1,"name":"阿强","tags":["vip","早鸟"]},{"address":{"city":"北京","zip":"100000"},"age":25,"id":2,"name":"小红"},{"active":true,"address":{"city":"广州"},"age":41,"email":"wang@example.com","id":3,"name":"老王"}]
